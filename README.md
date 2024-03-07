@@ -1,4 +1,4 @@
-# PROSTATEx_Lesions_Annotations
+# PROSTATEx Lesions Annotations
 
 We propose two folders containing radiological annotations on the 328 PROSTATEx2 cases included in the PICAI challenge cohort (see https://github.com/DIAGNijmegen/picai_labels/blob/main/additional_resources/ProstateX-mapping.json for PROSTATEx2/PICAI mapping). The proposed masks are in the T2w sequence space provided by the PICAI challenge.
 
